@@ -1,7 +1,9 @@
 *.rbc
 *.sassc
+*.gem
 .sass-cache
 capybara-*.html
+nbproject/
 .rspec
 /.bundle
 /vendor/bundle
